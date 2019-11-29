@@ -1,0 +1,5 @@
+body {background-color: green;}
+body {font: italic small-caps bold 22px/1.5 "sans-serif", helvetica, arial, sans-serif;/* font shorthand */}
+h1 {border: 5px solid blue;}
+h2 {border: 4px pink;}
+border-bottom-style: {border: 1px solid pink}
